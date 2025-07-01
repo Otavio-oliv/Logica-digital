@@ -2,7 +2,7 @@
 
 ## Professor 👨‍🏫
 
-Disciplina dada por Eliseu Cesar Miguel
+Disciplina dada por Prof. Eliseu Cesar Miguel
 
 ## Material Didático 📖
 
