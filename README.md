@@ -1,10 +1,10 @@
-# Logica-digital
+# 🔌 Logica-digital
 
 ## Professor 👨‍🏫
 
 Disciplina dada por Prof. Eliseu Cesar Miguel
 
-## Material Didático 📖
+## Material Didático 2025/1 📖
 
 https://campusvirtual.unifal-mg.edu.br/moodle/mod/resource/view.php?id=64779 (Sistemas de numeração)
 
